@@ -1,0 +1,8 @@
+{
+  "name": "KMDPrices",
+  "description": "Returns JSON output of latest Komodo (KMD) coin prices calculated from BTC and USD to other Crypto and Fiat currencies",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "https://raw.githubusercontent.com/SuperNETorg/Agama/master/assets/icons/komodo_png/512x512.png",
+  "keywords": ["komodo", "kmd", "komodo mobile", "komodo price", "kmd price", "kmd btc", "kmd usd"],
+  "image": "heroku/nodejs"
+}
